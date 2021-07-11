@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;BingoCasaLinuxGui&apos;" deleteContents="true" description="Delete resource &apos;BingoCasaLinuxGui&apos;" element1="/BingoCasaLinuxGui" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1607282756275"/>&#x0A;<refactoring comment="Delete resource &apos;BingoCasa_linuxGUI&apos;" deleteContents="true" description="Delete resource &apos;BingoCasa_linuxGUI&apos;" element1="/BingoCasa_linuxGUI" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1607284206438"/>
+</session>

@@ -1,0 +1,218 @@
+!SESSION 2020-12-06 19:17:33.608 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-06 19:18:34.330
+!MESSAGE Indexed 'BingoCasa' (5 sources, 5 headers) in 1,86 sec: 122 declarations; 253 references; 12 unresolved inclusions; 0 syntax errors; 180 unresolved names (32 %)
+!SESSION 2020-12-06 20:03:12.625 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 4 372 2020-12-06 20:04:41.270
+!MESSAGE Project 'BingoCasa' is not open.
+!STACK 0
+java.lang.Exception: Project 'BingoCasa' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager$Provider.supports(CBuildConfigurationManager.java:87)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.getProvider(CBuildConfigurationManager.java:144)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.recheckConfigs(CBuildConfigurationManager.java:206)
+	at org.eclipse.cdt.internal.docker.launcher.ui.launchbar.ContainerGCCToolChainProvider$1.run(ContainerGCCToolChainProvider.java:107)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 372 2020-12-06 20:04:41.271
+!MESSAGE Project 'BingoCasa' is not open.
+!STACK 0
+java.lang.Exception: Project 'BingoCasa' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager$Provider.supports(CBuildConfigurationManager.java:87)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.getProvider(CBuildConfigurationManager.java:144)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.recheckConfigs(CBuildConfigurationManager.java:206)
+	at org.eclipse.cdt.internal.docker.launcher.ui.launchbar.ContainerGCCToolChainProvider$1.run(ContainerGCCToolChainProvider.java:107)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 372 2020-12-06 20:04:41.272
+!MESSAGE Project 'BingoCasa' is not open.
+!STACK 0
+java.lang.Exception: Project 'BingoCasa' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager$Provider.supports(CBuildConfigurationManager.java:87)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.getProvider(CBuildConfigurationManager.java:144)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.recheckConfigs(CBuildConfigurationManager.java:206)
+	at org.eclipse.cdt.internal.docker.launcher.ui.launchbar.ContainerGCCToolChainProvider$1.run(ContainerGCCToolChainProvider.java:107)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 372 2020-12-06 20:04:41.272
+!MESSAGE Project 'BingoCasa' is not open.
+!STACK 0
+java.lang.Exception: Project 'BingoCasa' is not open.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:148)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:525)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager$Provider.supports(CBuildConfigurationManager.java:87)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.getProvider(CBuildConfigurationManager.java:144)
+	at org.eclipse.cdt.internal.core.build.CBuildConfigurationManager.recheckConfigs(CBuildConfigurationManager.java:206)
+	at org.eclipse.cdt.internal.docker.launcher.ui.launchbar.ContainerGCCToolChainProvider$1.run(ContainerGCCToolChainProvider.java:107)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:04:41.837
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-06 20:04:42.306
+!MESSAGE Indexed 'BingoCasaLinuxGui' (1 sources, 0 headers) in 0,609 sec: 5 declarations; 4 references; 2 unresolved inclusions; 0 syntax errors; 6 unresolved names (40 %)
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:04:54.465
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:04:54.718
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:05:03.590
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:08:02.240
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:22:59.328
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:03.864
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:05.569
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:06.889
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:08.597
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:09.917
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:14.441
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:15.973
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:17.504
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:34.032
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:35.088
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:35.810
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:24:36.608
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:26:37.994
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-06 20:26:38.022
+!MESSAGE Indexed 'BingoCasa_linuxGUI' (1 sources, 0 headers) in 0,122 sec: 5 declarations; 4 references; 2 unresolved inclusions; 0 syntax errors; 6 unresolved names (40 %)
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:26:48.634
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:27:03.424
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:27:03.916
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:27:07.353
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:43:22.704
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:05.763
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:12.276
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:15.794
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:16.223
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:24.811
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:25.796
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:26.839
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:57.856
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:46:59.878
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:47:01.433
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:47:02.397
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:47:55.425
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:01.453
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:02.495
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:03.469
+!MESSAGE No QMAKE_CXX for linux-g++
+!SESSION 2020-12-06 20:49:36.681 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:52.643
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:52.683
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:53.337
+!MESSAGE No QMAKE_CXX for linux-g++
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-06 20:49:53.563
+!MESSAGE Indexed 'BingoCasa_linuxGUI' (1 sources, 1 headers) in 0,275 sec: 12 declarations; 14 references; 7 unresolved inclusions; 3 syntax errors; 6 unresolved names (19 %)
+
+!ENTRY org.eclipse.cdt.qt.core 1 0 2020-12-06 20:49:54.660
+!MESSAGE No QMAKE_CXX for linux-g++
